@@ -1,0 +1,74 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/batik-dom-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/serializer-2.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/batik-awt-util-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/stringtemplate-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/slf4j-api-1.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/args4j-2.0.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/avalon-framework-impl-4.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/xercesImpl-2.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jaxb-svg11-1.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/odfdom-java-0.8.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/avalon-framework-api-4.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-lang-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ooxml-schemas-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/batik-extension-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/batik-bridge-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/batik-gvt-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/antlr-runtime-3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/slf4j-log4j12-1.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/batik-css-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jaxb-xslfo-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/batik-transcoder-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/xmlgraphics-commons-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/xalan-2.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/antlr-2.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/fop-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/batik-anim-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jaxb-xmldsig-core-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-io-1.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/batik-util-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/batik-ext-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/batik-script-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/batik-js-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/batik-svg-dom-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/xmlbeans-2.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/wmf2svg-0.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/batik-svggen-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/batik-parser-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/batik-xml-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-codec-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/poi-3.10-FINAL-20140208.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/poi-excelant-3.10-FINAL-20140208.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/poi-ooxml-3.10-FINAL-20140208.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/poi-ooxml-schemas-3.10-FINAL-20140208.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/poi-scratchpad-3.10-FINAL-20140208.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/xdocreport-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/docx4j-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/im4java-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jna-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-beanutils-1.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ghost4j-0.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-cli-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/xml-apis-1.3.04.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/pdf-transcoder.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/batik-codec.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/xml-apis-ext.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/crimson.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/junit-4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jcommon.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jfreechart.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/itext-4.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/xml-resolver-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/sac-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/juniversalchardet-1.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
